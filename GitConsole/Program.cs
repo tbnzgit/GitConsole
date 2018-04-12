@@ -14,6 +14,8 @@ namespace GitConsole
 
             //Create branch feature
 
+            //Bug fix here
+
         }
     }
 }
